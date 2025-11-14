@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/purchase-frontend-beta/node_modules
